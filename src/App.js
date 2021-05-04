@@ -1,8 +1,10 @@
 import React from 'react';
+import Texteditor from './Texteditor';
+
 function App() {
   return (
     <>
-      <h1>Hello react</h1>
+      <Texteditor />
     </>
   );
 }
